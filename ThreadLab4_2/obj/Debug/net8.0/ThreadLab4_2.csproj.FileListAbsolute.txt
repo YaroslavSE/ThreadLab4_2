@@ -1,0 +1,14 @@
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\bin\Debug\net8.0\ThreadLab4_2.exe
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\bin\Debug\net8.0\ThreadLab4_2.deps.json
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\bin\Debug\net8.0\ThreadLab4_2.runtimeconfig.json
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\bin\Debug\net8.0\ThreadLab4_2.dll
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\bin\Debug\net8.0\ThreadLab4_2.pdb
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\ThreadLab4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\ThreadLab4_2.AssemblyInfoInputs.cache
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\ThreadLab4_2.AssemblyInfo.cs
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\ThreadLab4_2.csproj.CoreCompileInputs.cache
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\ThreadLab4_2.dll
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\refint\ThreadLab4_2.dll
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\ThreadLab4_2.pdb
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\ThreadLab4_2.genruntimeconfig.cache
+C:\Users\Ярик\source\repos\ThreadLab4_2\ThreadLab4_2\obj\Debug\net8.0\ref\ThreadLab4_2.dll

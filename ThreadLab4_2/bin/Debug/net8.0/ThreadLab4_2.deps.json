@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThreadLab4_2/1.0.0": {
+        "runtime": {
+          "ThreadLab4_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadLab4_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
