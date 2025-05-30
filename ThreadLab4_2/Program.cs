@@ -14,18 +14,7 @@
         }
         static void Philosopher(int id, Waiter waiter)
         {
-            int right, left;
-            if (id == 4)
-            {
-                right = (id + 1) % 5;
-                left = id;
-            }
-            else
-            {
-                right = id;
-                left = (id + 1) % 5;
-            }
-
+           
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Philosopher" + id + " is thinking " + (i + 1) + " times");
